@@ -89,7 +89,7 @@
   text-decoration: none;
 }
 
-.header__link {
+.header__link:hover {
   color: #1f69c9;
 }
 
@@ -138,8 +138,8 @@
   border-radius: 6px;
   padding: 32px 40px 20px 32px;
   box-sizing: border-box;
-  max-width: 360px;
-  max-height: 420px;
+  width: 360px;
+  height: 420px;
 }
 
 .card__content {
